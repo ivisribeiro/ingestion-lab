@@ -1,0 +1,7 @@
+pyspark
+boto3
+minio
+google-cloud-storage
+psycopg2-binary
+PyYAML
+pytest
